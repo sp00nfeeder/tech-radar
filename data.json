@@ -40,12 +40,5 @@
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "great for web3 apps and Obsidian"
-  },
-  {
-    "name": "Cold Fusionx",
-    "ring": "hold",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "old 2000's era language created by the founder of Circle"
-  } 
+  }
 ]
