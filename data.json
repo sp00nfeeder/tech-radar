@@ -14,17 +14,24 @@
     "description": "Many projects have external code dependencies ..."
   },
   {
-    "name": "Apache Kylin",
+    "name": "Infrastructure from Code",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Apache Kylin is an open source analytics solution ..."
+    "description": "the logical evolution of cloud. Instead of writing low-level, control-plane specific instructions, IfC infers requirements from application logic and provisions the optimal cloud infrastructure."
   },
   {
-    "name": "JSF",
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  }
+  {
+    "name": "Cold Fusion",
     "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "We continue to see teams run into trouble using JSF ..."
-  }
+    "description": ""
+  }  
 ]
