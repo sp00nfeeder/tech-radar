@@ -46,6 +46,13 @@
     "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
-    "description": "old 200's era language created by the founder of Circle"
+    "description": "old 2000's era language created by the founder of Circle"
+  },
+  {
+    "name": "blind allegiance to open source",
+    "ring": "hold",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "excessively priortizing open source as the main (or sole) criteria for tool adoption"
   }  
 ]
