@@ -6,12 +6,54 @@
     "isNew": "FALSE",
     "description": "a Markdown based note taking and note making tool"
   },
+  {
+    "name": "Obsidian Canvas",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "FALSE",
+    "description": "infinite canvas (zoom in, zoom out, move up/down/left/right) for linked or unlinked notes; quick copy/paste of images"
+  },
+  {
+    "name": "blue green deploys",
+    "ring": "trial",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "Many projects have external code dependencies ..."
+  },
+  {
+    "name": "Cynefin Framework",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": ""
+  },
 
+  {
+    "name": "Eisenhower matrix",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "a way to triage or prioritize requests/tasks; can be overly perscriptive since Quadrant 4 can vary from person-to-person"
+  },
+  {
+    "name": "Infrastructure from Code",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "the logical evolution of cloud. Instead of writing low-level, control-plane specific instructions, IfC infers requirements from application logic and provisions the optimal cloud infrastructure."
+  },
+  {
+    "name": "Python",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": ""
+  },
   {
     "name": "Javascript",
     "ring": "adopt",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "great for web3 apps and Obsidian"
-  }
+  },
 ]
